@@ -1,2 +1,2 @@
 # JChat Pictures
-Pictures are all listed here.
+Blueprints, images on the program, and dependent images are all here.
