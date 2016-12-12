@@ -5,4 +5,4 @@ JChat (or Java Chat) is a Java-based application that is used as a template for 
 # Dependencies
 JChat uses JBDC, MySQL, JavaFx GUI Components, and Sockets to do its job.
 You will need to portforward JChat to work with other networks.
-This project must be built using the build.xml and ANT build packaging..
+This project must be built using the build.xml and ANT build packaging.
